@@ -9,5 +9,5 @@ You can use this administrator user to enter and upgrade your user from a regula
 email: beifong@outlook.com <br/>
 password: hola123 <br/>
 
-# Inizializing
+# Initializing
 npm install -> npm start (frontend), nodemon(backend)
