@@ -5,7 +5,7 @@ Hi!, this is an demonstrative application where you can upload files and adminis
 install version node 14 and up
 
 # User email and password
-You can use this administrator user to enter and upgrade your user to admin as well <br/>
+You can use this administrator user to enter and upgrade your user from a regular user to admin <br/>
 email: beifong@outlook.com <br/>
 password: hola123 <br/>
 
