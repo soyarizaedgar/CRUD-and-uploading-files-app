@@ -1,5 +1,5 @@
 # CRUD-and-uploading-files-app
-Hi!, this is an demonstrative application where you can upload files and administrate users
+Hi!, this is an demonstrative application where you can upload files and administrate users made with angular, express js and mysql
 
 # Node version
 install version node 14 and up
